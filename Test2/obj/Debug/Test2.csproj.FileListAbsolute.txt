@@ -1,0 +1,6 @@
+D:\TempRep\test2_project\Hello-World\Test2\Test2\bin\Debug\Test2.exe.config
+D:\TempRep\test2_project\Hello-World\Test2\bin\Debug\Test2.exe.config
+D:\TempRep\test2_project\Hello-World\Test2\bin\Debug\Test2.exe
+D:\TempRep\test2_project\Hello-World\Test2\bin\Debug\Test2.pdb
+D:\TempRep\test2_project\Hello-World\Test2\obj\Debug\Test2.exe
+D:\TempRep\test2_project\Hello-World\Test2\obj\Debug\Test2.pdb
